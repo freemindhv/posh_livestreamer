@@ -9,5 +9,6 @@
 ![alt text](https://github.com/freemindhv/posh_livestreamer/blob/master/src/asadmin.gif "Run as Admin")
 * Set Execution Policy to Unrestricted 
 ![alt text](https://github.com/freemindhv/posh_livestreamer/blob/master/src/execpolicy.gif "Set Execution Policy")
+* Right-click twitch.ps1 and "run with powershell"
+![alt text](https://github.com/freemindhv/posh_livestreamer/blob/master/src/run_w_posh.gif "Run with Powershell")
 
-Right-click twitch.ps1 and "run with powershell"
